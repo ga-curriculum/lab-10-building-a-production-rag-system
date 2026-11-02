@@ -61,8 +61,8 @@ os.environ["OPENAI_API_KEY"] = "your-api-key"
 ### Step 3: Create Project Structure (i.e. clone this repo)
 
 ```bash
-git clone https://git.generalassemb.ly/data-engineering-and-automation-with-ai/Lab-10-Building-a-Production-RAG-System.git
-cd Lab-10-Building-a-Production-RAG-System/
+git clone https://github.com/ga-curriculum/lab-10-building-a-production-rag-system.git
+cd lab-10-building-a-production-rag-system/
 ```
 
 ### Step 4: Create Sample Documents
